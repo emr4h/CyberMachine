@@ -1,0 +1,1 @@
+pip install pyfiglet==0.7
