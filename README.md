@@ -78,7 +78,10 @@ If you are curious about the machine learning applications, success rates and an
 If you like the project, don't forget to give stars :)
 
 
-#### Follow me
-[![Follow me on twitter](https://img.shields.io/twitter/follow/emrahyldrw.svg?style=social)](https://twitter.com/intent/follow?screen_name=emrahyldrw) 
-[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-emr4h-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/emr4h/)
+<h3 align="left">Follow me:</h3>
+<p align="left">
+<a href="https://twitter.com/emrahyldrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrahyldrw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emr4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emr4h" height="30" width="40" /></a>
+<a href="https://instagram.com/sapkalihacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapkalihacker" height="30" width="40" /></a>
+</p>
 
