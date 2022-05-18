@@ -19,7 +19,7 @@ def machineLearnSpam(message):
 
     print("Prediction using Decision Trees ...")
 
-    dtModel = tree.DecisionTreeClassifier() # DecisionTree Sınıflandırması oluşturduk.
+    dtModel = tree.DecisionTreeClassifier() 
     dtModel.fit(features, ifSpam)
     dtPredict = dtModel.predict(userInput)
     print(dtPredict) 
@@ -27,8 +27,8 @@ def machineLearnSpam(message):
 
     print("Prediction using Random Forest ...")
 
-    rfModel = RandomForestClassifier() # Random Forest çağrımı
-    rfModel.fit(features, ifSpam) # fit ile algoritmayı eğittik.
+    rfModel = RandomForestClassifier() 
+    rfModel.fit(features, ifSpam) 
     rfPredict = rfModel.predict(userInput)
     print(rfPredict)
     print("\n")
