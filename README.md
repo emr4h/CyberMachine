@@ -1,4 +1,4 @@
-<h1 align="left">CyberMachine 🤖</h2>
+<h1 align="left">CyberMachine 🤖</h1>
 <img width="1026" alt="Ekran Resmi 2022-04-14 18 33 25" src="https://user-images.githubusercontent.com/60710585/163424431-3da87b14-2053-4733-bb85-d1bf62b31690.png">
 
 
